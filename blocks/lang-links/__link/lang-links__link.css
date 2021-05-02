@@ -1,0 +1,27 @@
+.lang-links__link {
+  margin: 0;
+  padding-right: 18px;
+  padding-bottom: 5px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.lang-links__link:last-child {
+  padding-right: 0;
+}
+
+.lang-links__link:hover {
+  opacity: 0.8;
+  transition: ease 0.3s;
+}
+
+@media screen and (max-width: 320px) {
+  .lang-links__link {
+      font-size: 18px;
+      line-height: 20px;
+      padding-bottom: 10px;
+  }
+}
