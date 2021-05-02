@@ -3,5 +3,5 @@
 проект по верстки сайта о путешествии по россии
 в этом проэкте использовалась адаптивная верстка
 
-https://vlad330d.github.io/russian-travel/russian-travel-master/
+https://vlad330d.github.io/russian-travel/index.html
 
