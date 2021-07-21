@@ -1,7 +1,7 @@
-Проект 3: Путешествие по России
+1st Project: Russian travel
 
-проект по верстки сайта о путешествии по россии
-в этом проэкте использовалась адаптивная верстка
+It was my first project for adaptive web page, it been done in Desctop first way.
+To build this web page i used only html and css
 
 https://vlad330d.github.io/russian-travel/index.html
 
